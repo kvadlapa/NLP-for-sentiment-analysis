@@ -15,6 +15,12 @@ Use N-grams to capture data and improve the performance of the model.
 Train the model using some part of the data from the chosen dataset.
 Test the model using the part from the remaining dataset.
  
+#Technology Usage:
+Python(Anaconda environment)
+Numpy, Pandas
+googletrans
+Colab.google.com
+
 
 #Data Collection: 
 
